@@ -12,7 +12,7 @@ Access to industry trends and updates in mechanical engineering.
 To get started with Mechanical Bot, follow these steps:
 
 **Clone the repository:**
-git clone https://github.com/your-username/mechanical-bot.git
+git clone https://github.com/roshan4314/mechanical-bot.git
 cd MechanicalBot
 
 Install the Gaia Node by running the following command:
